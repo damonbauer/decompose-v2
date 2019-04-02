@@ -104,3 +104,44 @@ Whatever helps express to your team, what you intend to do, and how you intend t
 
 Someplace that facilitates team access and review.
 
+---
+
+Small Pull Requests: How?
+
+---
+
+Hidden UI
+
+---
+
+New URL/Screen
+
+---
+
+Feature Flags
+
+---
+
+Add a new Method or Class
+
+---
+
+Don't separate tests and code
+
+---
+
+Include sample implementation code
+
+---
+
+Do one thing
+
+---
+
+Impact Analysis
+
+---
+
+Make sure QA is in the loop
+
+---
