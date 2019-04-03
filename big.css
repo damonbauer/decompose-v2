@@ -186,3 +186,7 @@ blockquote s {
 div.slide[data-slideclass="fullwidth-image"] {
   width: 88%;
 }
+
+.nobreak {
+  white-space: pre;
+}

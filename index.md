@@ -5,6 +5,11 @@
 * How?
 * Where?
 
+<small style="font-size: 18px;">
+Who?
+When?
+</small>
+
 ---
 
 ## What?
@@ -103,6 +108,51 @@ Whatever helps express to your team, what you intend to do, and how you intend t
 * Github Issues
 
 Someplace that facilitates team access and review.
+
+---
+
+<div class="nobreak">Small Pull Requests:</div>
+
+---
+
+Why?
+
+---
+
+Fast code reviews
+
+---
+
+Fewer bugs
+
+---
+
+Easier to course correct
+- less emotional courage to request changes
+
+---
+
+More thorough reviews
+
+---
+Easier to understand
+
+---
+
+Pivot/Context Switch
+- Expensive feature
+
+---
+
+Don't need nested branches
+
+---
+
+Refactors can simplify other
+
+---
+
+Fewer merge conflicts
 
 ---
 
