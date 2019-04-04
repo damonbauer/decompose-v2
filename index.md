@@ -1,24 +1,24 @@
 ## Plan First
 
-* What?
-* Why?
-* How?
-* Where?
+* <em>What?</em>
+* <em>Why?</em>
+* <em>How?</em>
+* <em>Where?</em>
 
 <small style="font-size: 18px;">
-Who?
-When?
+<em>Who?</em>
+<em>When?</em>
 </small>
 
 ---
 
-## What?
+## <em>What?</em>
 
 * Design and architecture work done before touching a single line of code.
 
 ---
 
-## Why?
+## <em>Why?</em>
 
 * Stay focused
 * Collaboration
@@ -51,7 +51,7 @@ When?
 
 ---
 
-## How?
+## <em>How?</em>
 * Text / Markdown
 * Diagrams
 
@@ -102,7 +102,7 @@ Whatever helps express to your team, what you intend to do, and how you intend t
 
 ---
 
-## Where?
+## <em>Where?</em>
 * Repository
 * Github Wiki
 * Github Issues
@@ -112,10 +112,7 @@ Someplace that facilitates team access and review.
 ---
 
 <div class="nobreak">Small Pull Requests:</div>
-
----
-
-Why?
+<em>Why?</em>
 
 ---
 
@@ -123,7 +120,11 @@ Fast code reviews
 
 ---
 
-Fewer bugs
+More thorough reviews
+
+---
+
+![](images/huge.png)
 
 ---
 
@@ -132,23 +133,31 @@ Easier to course correct
 
 ---
 
-More thorough reviews
-
----
 Easier to understand
 
 ---
 
+![](images/all-the-prs.png)
+
+---
+
+![](images/line-counts.png)
+
+---
+
+Fewer bugs
+
+---
+
 Pivot/Context Switch
-- Expensive feature
 
 ---
 
-Don't need nested branches
+No nested branches
 
 ---
 
-Refactors can simplify other
+Refactors are shareable more quickly
 
 ---
 
@@ -156,7 +165,8 @@ Fewer merge conflicts
 
 ---
 
-Small Pull Requests: How?
+<div class="nobreak">Small Pull Requests:</div>
+<em>How?</em>
 
 ---
 
