@@ -6,8 +6,8 @@
 * <em>Where?</em>
 
 <small style="font-size: 18px;">
-<em>Who?</em>
-<em>When?</em>
+  <em>Who?</em>
+  <em>When?</em>
 </small>
 
 ---
@@ -141,7 +141,6 @@ Easier to understand
 
 ---
 
-![](images/line-counts.png)
 
 ---
 
