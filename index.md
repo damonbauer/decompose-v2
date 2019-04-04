@@ -1,9 +1,61 @@
+## Decomposition
+
+---
+
+<p>🤔</p>
+
+---
+
+Decompose: Break it up
+
+---
+
+# Shipping Large Units
+
+* Lots of code
+* Lots of testing
+* Slow delivery to customers
+* Discouragement and overwhelm
+
+---
+
+# Shipping Small Units
+
+* A little bit of code
+* A little bit of testing
+* Deliver _something_ to customers
+* Feedback and motivation
+
+---
+
+# When Decomposing Work
+
+Find the smallest units of work that are:
+
+* Shippable
+* User-facing
+
+---
+
+![Skateboard](https://cdn-images-1.medium.com/max/2400/1*r8Tf9PiKiLzB3MNBr1A7Hw.png)
+By Henrik Kniberg
+
+---
+
+## Decompose the _Problem_ not the _Solution_
+
+* Is this feature even needed?
+* Is there a simpler alternative?
+* What's the smallest, shippable, user-facing change we can make?
+
+---
+
 ## Plan First
 
-* <em>What?</em>
-* <em>Why?</em>
-* <em>How?</em>
-* <em>Where?</em>
+* _What?_
+* _Why?_
+* _How?_
+* _Where?_
 
 <small style="font-size: 18px;">
   <em>Who?</em>
@@ -12,13 +64,13 @@
 
 ---
 
-## <em>What?</em>
+## _What?_
 
 * Design and architecture work done before touching a single line of code.
 
 ---
 
-## <em>Why?</em>
+## _Why?_
 
 * Stay focused
 * Collaboration
@@ -51,7 +103,7 @@
 
 ---
 
-## <em>How?</em>
+## _How?_
 * Text / Markdown
 * Diagrams
 
@@ -102,7 +154,7 @@ Whatever helps express to your team, what you intend to do, and how you intend t
 
 ---
 
-## <em>Where?</em>
+## _Where?_
 * Repository
 * Github Wiki
 * Github Issues
