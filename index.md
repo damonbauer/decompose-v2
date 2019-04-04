@@ -2,11 +2,11 @@
 
 ---
 
-#### 🤔
+<p>🤔</p>
 
 ---
 
-###### Decompose: Break it up
+Decompose: Break it up
 
 ---
 
@@ -52,10 +52,10 @@ By Henrik Kniberg
 
 ## Plan First
 
-* <em>What?</em>
-* <em>Why?</em>
-* <em>How?</em>
-* <em>Where?</em>
+* _What?_
+* _Why?_
+* _How?_
+* _Where?_
 
 <small style="font-size: 18px;">
   <em>Who?</em>
@@ -64,13 +64,13 @@ By Henrik Kniberg
 
 ---
 
-## <em>What?</em>
+## _What?_
 
 * Design and architecture work done before touching a single line of code.
 
 ---
 
-## <em>Why?</em>
+## _Why?_
 
 * Stay focused
 * Collaboration
@@ -103,7 +103,7 @@ By Henrik Kniberg
 
 ---
 
-## <em>How?</em>
+## _How?_
 * Text / Markdown
 * Diagrams
 
@@ -154,7 +154,7 @@ Whatever helps express to your team, what you intend to do, and how you intend t
 
 ---
 
-## <em>Where?</em>
+## _Where?_
 * Repository
 * Github Wiki
 * Github Issues
