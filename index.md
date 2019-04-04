@@ -1,19 +1,24 @@
 ## Plan First
 
-* What?
-* Why?
-* How?
-* Where?
+* <em>What?</em>
+* <em>Why?</em>
+* <em>How?</em>
+* <em>Where?</em>
+
+<small style="font-size: 18px;">
+  <em>Who?</em>
+  <em>When?</em>
+</small>
 
 ---
 
-## What?
+## <em>What?</em>
 
 * Design and architecture work done before touching a single line of code.
 
 ---
 
-## Why?
+## <em>Why?</em>
 
 * Stay focused
 * Collaboration
@@ -46,7 +51,7 @@
 
 ---
 
-## How?
+## <em>How?</em>
 * Text / Markdown
 * Diagrams
 
@@ -97,7 +102,7 @@ Whatever helps express to your team, what you intend to do, and how you intend t
 
 ---
 
-## Where?
+## <em>Where?</em>
 * Repository
 * Github Wiki
 * Github Issues
@@ -106,7 +111,61 @@ Someplace that facilitates team access and review.
 
 ---
 
-Small Pull Requests: How?
+<div class="nobreak">Small Pull Requests:</div>
+<em>Why?</em>
+
+---
+
+Fast code reviews
+
+---
+
+More thorough reviews
+
+---
+
+![](images/huge.png)
+
+---
+
+Easier to course correct
+- less emotional courage to request changes
+
+---
+
+Easier to understand
+
+---
+
+![](images/all-the-prs.png)
+
+---
+
+
+---
+
+Fewer bugs
+
+---
+
+Pivot/Context Switch
+
+---
+
+No nested branches
+
+---
+
+Refactors are shareable more quickly
+
+---
+
+Fewer merge conflicts
+
+---
+
+<div class="nobreak">Small Pull Requests:</div>
+<em>How?</em>
 
 ---
 
